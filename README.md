@@ -10,10 +10,7 @@ I love analyzing data, mapping processes and requirements, and learning about Da
 
 You can reach me here:
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/fernando-balandrano-cid-del-prado/">
-    <img src="https://img.shields.io" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[![LinkedIn Badge](https://img.shields.io)](https://www.linkedin.com/in/fernando-balandrano-cid-del-prado/)
+
 
 -->
