@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, my name is Fer Balandrano, and I'm a Data Analyst and a Software Developer in training 🚀😎
+I love analyzing data, mapping processes and requirements, and learning about Data Engineering, automation with AI, and everything about the tech world 🤖
 
-<!--
-**FerBalandrano/FerBalandrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+[SQL DataWarehouse project ](https://github.com/FerBalandrano/sql_data_warehouse_project)- (a datawarehouse created with MySQL, based on the Medallion Arquitecture for Data Engineering).
+- 🌱 I’m currently learning
+- Java
+- Python
+- n8n
 
-Here are some ideas to get you started:
+You can reach me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div id="badges">
+  <a href="https://www.linkedin.com/in/fernando-balandrano-cid-del-prado/">
+    <img src="https://img.shields.io" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 -->
